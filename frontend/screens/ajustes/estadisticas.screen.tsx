@@ -68,7 +68,7 @@ const EstadisticasScreen = () => {
   return (
     <SafeAreaView style={styles.safeContainer}>
       <ScrollView style={styles.container}>
-        <Text style={styles.sectionTitle}>Filtrar por fechass</Text>
+        <Text style={styles.sectionTitle}>Filtrar por fechas</Text>
 
         <View style={styles.dateRow}>
           <TouchableOpacity
